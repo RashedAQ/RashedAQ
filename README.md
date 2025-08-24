@@ -1,3 +1,6 @@
+## 🎉 Fun Touch  
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
 # Hi there! I’m Rashed 👋  
 
 ## 🚀 About Me  
@@ -45,7 +48,5 @@ I enjoy building **impactful projects**, learning new technologies, and sharing 
 
 ---
 
-## 🎉 Fun Touch  
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)  
 
